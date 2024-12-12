@@ -1,1 +1,2 @@
-# simple submit form
+# wardrobe app 
+made using react and axios
