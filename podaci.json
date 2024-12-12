@@ -1,0 +1,108 @@
+{
+  "clothes": [
+    {
+      "id": "c7b5",
+      "type_of": "Pants",
+      "size": "L",
+      "color": "#3f5049",
+      "date": "Tue Feb 13 2023",
+      "image": "https://media.gq.com/photos/654a6a4a9efb7efc0873125a/1:1/w_1125,h_1125,c_limit/casual-pants-for-men.jpg"
+    },
+    {
+      "id": "413f",
+      "type_of": "T-shirt",
+      "size": "M",
+      "color": "#000000",
+      "date": "Thu Feb 08 2024"
+    },
+    {
+      "id": "91e4",
+      "type_of": "T-shirt",
+      "size": "M",
+      "color": "#000000",
+      "date": "Fri Jan 03 2025"
+    },
+    {
+      "id": "9eaf",
+      "type_of": "T-shirt",
+      "size": "L",
+      "color": "#000000",
+      "date": "Wed Mar 06 2024"
+    },
+    {
+      "id": "4093",
+      "type_of": "T-shirt",
+      "size": "S",
+      "color": "#e01010",
+      "date": "Wed Mar 06 2024"
+    },
+    {
+      "id": "1340",
+      "type_of": "T-shirt",
+      "size": "M",
+      "color": "#000000",
+      "date": "Wed Mar 27 2024"
+    },
+    {
+      "id": "dfbb",
+      "type_of": "T-shirt",
+      "size": "M",
+      "color": "#000000",
+      "date": "Wed Mar 27 2024"
+    },
+    {
+      "id": "e2ec",
+      "type_of": "T-shirt",
+      "size": "S",
+      "color": "#000000",
+      "date": "Wed Mar 27 2024",
+      "image": "https://media.gq.com/photos/654a6a4a9efb7efc0873125a/1:1/w_1125,h_1125,c_limit/casual-pants-for-men.jpg"
+    },
+    {
+      "id": "e42c",
+      "type_of": "Pants",
+      "size": "M",
+      "color": "#000000",
+      "date": "Tue Apr 02 2024",
+      "image": "https://https://media.gq.com/photos/654a6a4a9efb7efc0873125a/1:1/w_1125,h_1125,c_limit/casual-pants-for-men.jpg"
+    },
+    {
+      "id": "1f52",
+      "type_of": "Pants",
+      "size": "M",
+      "color": "#0844f7",
+      "date": "Wed Apr 03 2024",
+      "image": "https://"
+    },
+    {
+      "id": "13f0",
+      "type_of": "Pants",
+      "size": "S",
+      "color": "#000000",
+      "date": "Sun May 05 2024",
+      "image": "https://"
+    },
+    {
+      "id": "6713",
+      "type_of": "Pants",
+      "size": "M",
+      "color": "#ec1313",
+      "date": "Sun Oct 27 2024",
+      "image": "https://"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "type_of": "T-shirt"
+    },
+    {
+      "id": "2",
+      "type_of": "Pants"
+    },
+    {
+      "id": "3",
+      "type_of": "Shoes"
+    }
+  ]
+}

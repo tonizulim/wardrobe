@@ -1,0 +1,61 @@
+#show_div{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.item_list_div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px;
+    background-color:rgb(151, 206, 255);
+    border-radius: 10px;
+}
+
+.item_list{
+    margin: 10px;
+    padding: 10px;
+    width: 4vw;
+}
+
+.item_list_date{
+    margin: 10px;
+    padding: 10px;
+    width: 8vw;
+}
+/* 
+.item_list_costumize{
+    width: auto;
+    background-color: red;
+    padding: 10px;
+}
+*/
+.item_list_input{
+    width: auto;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+#item_list select{
+    border-radius: 10px;
+    border: 1px solid black;
+} 
+
+button{
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 100px;
+    padding: 10px;
+    margin: 10px;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: rgb(94, 94, 255);
+}
